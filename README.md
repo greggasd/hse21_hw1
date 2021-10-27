@@ -83,10 +83,15 @@ sed -n '1,/^>/p' scaffolds.fasta | head -n -1 >longest.fasta
 
 ![Image alt](https://github.com/greggasd/hse21_hw1/blob/main/image/1.2.png)
 
+![Image alt](https://github.com/greggasd/hse21_hw1/blob/main/image/1.3.png)
+
+
 ## Отчет для обрезанных чтений
 
 ![Image alt](https://github.com/greggasd/hse21_hw1/blob/main/image/2.1.png)
 
 ![Image alt](https://github.com/greggasd/hse21_hw1/blob/main/image/2.2.png)
 
-### Далее см jupyter (https://github.com/greggasd/hse21_hw1/blob/main/scr/antonnikov_hw_1.ipynb)
+![Image alt](https://github.com/greggasd/hse21_hw1/blob/main/image/2.3.png)
+
+### Далее см. jupyter (https://github.com/greggasd/hse21_hw1/blob/main/scr/antonnikov_hw_1.ipynb)
