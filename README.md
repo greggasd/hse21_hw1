@@ -76,3 +76,5 @@ rm *trimmed
 ```
 sed -n '1,/^>/p' scaffolds.fasta | head -n -1 >longest.fasta
 ```
+
+##  
