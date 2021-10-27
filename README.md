@@ -72,9 +72,17 @@ platanus gap_close -c out_scaffold.fa -IP1 *.trimmed -OP2 *.int_trimmed
 ```
 rm *trimmed
 ```
-##  самый длинный в файл longest 
+##  самый длинный скайффолд в файл longest 
 ```
 sed -n '1,/^>/p' scaffolds.fasta | head -n -1 >longest.fasta
 ```
 
-##  
+##  Отчет для первоначальных чтений
+
+![Image alt](https://github.com/greggasd/hse21_hw1/blob/main/image/1.1.png)
+![Image alt](https://github.com/greggasd/hse21_hw1/blob/main/image/1.2.png)
+
+## Отчет для обрезанных чтений
+
+![Image alt](https://github.com/greggasd/hse21_hw1/blob/main/image/1.2.png)
+![Image alt](https://github.com/greggasd/hse21_hw1/blob/main/image/2.2.png)
